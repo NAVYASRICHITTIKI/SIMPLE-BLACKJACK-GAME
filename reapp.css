@@ -1,0 +1,26 @@
+body
+{font-size: 2rem;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+font-weight: 400;
+background-image:url("pattern.jpg");
+background-size: cover;
+
+}
+
+h1
+{
+font-size: 2rem;
+color:goldenrod;
+}
+p{
+color:whitesmoke;
+}
+button
+{background-color: goldenrod;
+font-size:24px ;
+color:whitesmoke;
+border: none;
+border-radius: 3px;
+padding:5px;
+
+}
